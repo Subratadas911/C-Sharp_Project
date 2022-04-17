@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AdminAmbulanceDispatcher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminCovidService.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminDesco.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminEducationBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminE_Passport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminFireDispatcher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminPoliceDispatcher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminServerMonitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminWomenChildHelp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AmbulanceDispatcher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="covid-19Services.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashbord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Desco.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="E-passport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="E-PassRegistration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EducationBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Epass1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="epass2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FireDispatcher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GovtServices.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PoliceDispatcher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UC_C\eight.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_C\fifth.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_C\first.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_C\fourth.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_C\second.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_C\seventh.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_C\sixth.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UC_C\thrd.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UpdateAllUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewLoginDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="W and C helpline.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="YourProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
